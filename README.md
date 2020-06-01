@@ -1,4 +1,4 @@
-#Ultimate stock prediction machine learning training dataset
+# Ultimate stock prediction machine learning training dataset
 ## Built with :heart: by [Matthew Davis](https://www.linkedin.com/in/tech-lead-matt-davis/) - [linkedin](https://www.linkedin.com/in/tech-lead-matt-davis/) - [github](https://github.com/Deamoner) - [Medium](https://medium.com/@mdavis_71283) - [Youtube](https://www.youtube.com/channel/UCJNZxBqs8ElqouPqAkZLlqg) - [Facebook](https://www.facebook.com/matthewjamesdavis/)
 
 This repo includes all the stocks and all there data for daily up to 2019.
